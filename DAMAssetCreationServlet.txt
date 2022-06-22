@@ -1,3 +1,8 @@
+-------------Steps to make post call
+             1.localhost:4502/bin/createasset?assetpath=/content/dam/your-project-name/folder-location/file-name
+             2.Put JSON data in body section(raw) in POSTMan
+-------------------------------------------------
+
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
 import org.apache.commons.io.IOUtils;
